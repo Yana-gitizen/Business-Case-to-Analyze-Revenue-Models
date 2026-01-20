@@ -32,9 +32,16 @@ A revenue model should likely be rejected or heavily revised if the business cas
 If the business case reveals that the model is too risky, cannot be executed, or does not provide a path to profitability, the decision should be to reject or pivot to a different model. 
 
 
-• Conduct a Sensitivity Analysis: Test the model's success against best-case, worst-case, and most-likely scenarios. If a 10% increase in costs destroys profitability, it is too risky. 
-• Validate Customer Willingness to Pay: Use pilot data, surveys, or interviews to confirm that the target customer will actually pay the projected price. 
-• Verify Operational Feasibility: Ensure the company has the resources, technology, and team to deliver the value and execute the model. 
-• Check Legal and Compliance: Ensure the revenue model complies with data protection, taxation, and other regulations.
+• Conduct a Sensitivity Analysis: Test the model's success against best-case, worst-case, and most-likely scenarios. Here are some questions that I can answer based on the sensitivity analysis:
+Is it is too risky? (If a 10% increase in costs destroys profitability, then yes it is Risky!)
+• Will the target customer actually pay the projected price? (Validate Customer Willingness to Pay: Use pilot data, surveys, or interviews to confirm) 
+• Does the company have the resources, technology, and team to deliver the value and execute the model? (Verify Operational Feasibility) 
+• Does the revenue model comply with data protection, taxation, and other regulations? (Check Legal and Compliance)
 Decision Checklist 
 
+The Sensitivity Analysis can also help to conclude other relative questions:
+								
+question 1: at what return rate & spend could you become profitable in year 2? (spend vs. return rate)									
+question 2: could lowering the COGS slightly in year 3 and increasing ad spend in year 2 get you profitable in year 3? (spend vs. COGS)									
+question 3: can you spend your way to profitability at a flat CAC in year 3? (spend and 1 column)									
+ 									
