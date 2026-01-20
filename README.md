@@ -41,7 +41,8 @@ Decision Checklist
 
 The Sensitivity Analysis can also help to conclude other relative questions:
 								
-question 1: at what return rate & spend could you become profitable in year 2? (spend vs. return rate)									
-question 2: could lowering the COGS slightly in year 3 and increasing ad spend in year 2 get you profitable in year 3? (spend vs. COGS)									
-question 3: can you spend your way to profitability at a flat CAC in year 3? (spend and 1 column)									
+question 1: Are CAPEX for chargers, installation, and land covered by EBITDA within 3-5 years, factoring depreciation and maintenance? 
+
+question 2:	What income can charging fees, subscriptions, and add-ons like premium parking generate at varying utilization rates (e.g., 20-60%)? 								
+question 3: Does the business maintain sufficient cash flow to service debt amid low initial utilization, per current/quick ratios? 									
  									
